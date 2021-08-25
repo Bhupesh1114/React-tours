@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-tours/static/css/main.3379c5a1.chunk.css",
-    "main.js": "/React-tours/static/js/main.e1d362a2.chunk.js",
-    "main.js.map": "/React-tours/static/js/main.e1d362a2.chunk.js.map",
+    "main.js": "/React-tours/static/js/main.8f7cc30a.chunk.js",
+    "main.js.map": "/React-tours/static/js/main.8f7cc30a.chunk.js.map",
     "runtime-main.js": "/React-tours/static/js/runtime-main.a86b51c4.js",
     "runtime-main.js.map": "/React-tours/static/js/runtime-main.a86b51c4.js.map",
     "static/css/2.c490997a.chunk.css": "/React-tours/static/css/2.c490997a.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.c490997a.chunk.css",
     "static/js/2.44879340.chunk.js",
     "static/css/main.3379c5a1.chunk.css",
-    "static/js/main.e1d362a2.chunk.js"
+    "static/js/main.8f7cc30a.chunk.js"
   ]
 }
